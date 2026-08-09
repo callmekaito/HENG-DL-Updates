@@ -1,13 +1,7 @@
 {
-  "version": "2.5.0",
+  "version": "2.4.0",
   "download_url": "",
   "sha256": "",
   "size": 0,
-  "release_notes": [
-    "HENG DL v2.5.0",
-    "New UI/UX",
-    "Dark / Light / System themes",
-    "Accent colors",
-    "Update system"
-  ]
+  "release_notes": []
 }
