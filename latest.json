@@ -1,7 +1,13 @@
 {
-  "version": "2.4.0",
-  "download_url": "",
-  "sha256": "",
-  "size": 0,
-  "release_notes": []
+  "version": "2.4.1",
+  "download_url": "https://github.com/callmekaito/HENG-DL-Updates/releases/download/v2.4.1/Khmer.Tool.DL.VERSION.2.4.1.exe",
+  "sha256": "d82f47636f61b78dc4371a24eff7cd5774346a642686b07d4749b60d96193a48",
+  "size": 255303031,
+  "release_notes": [
+    "New: real 1-Minute License production plan",
+    "New: automatic app lock when no valid license, expired, or revoked (Settings stays accessible)",
+    "New: in-app update system with progress, SHA-256 verification, and safe install",
+    "Improved: license alerts now shown in Khmer with proper font rendering",
+    "Fixed: removed a duplicate Download button; social downloads now use the single Download Selected button"
+  ]
 }
